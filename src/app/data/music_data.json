@@ -1,0 +1,105 @@
+{
+    "courses": [
+        {
+            "id":1,
+            "title":"Guiter Fundamentals",
+            "slug":"Guiter-fundamentals",
+            "description":"Learn the basic of playing guiter with our comprehensive beginner's course",
+            "price":99.99,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"/courses/guiter.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Advanced Guitar Techniques",
+            "slug": "advanced-guitar-techniques",
+            "description": "Take your guitar skills to the next level with advanced techniques.",
+            "price": 149.99,
+            "instructor": "Jane Smith",
+            "isFeatured": false,
+            "image": "/courses/advanced_guitar.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Piano for Beginners",
+            "slug": "piano-for-beginners",
+            "description": "Start your piano journey with our beginner-friendly course.",
+            "price": 89.99,
+            "instructor": "Emily Johnson",
+            "isFeatured": true,
+            "image": "/courses/piano.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Mastering the Drums",
+            "slug": "mastering-the-drums",
+            "description": "Learn to play the drums like a pro with our expert course.",
+            "price": 129.99,
+            "instructor": "Michael Brown",
+            "isFeatured": true,
+            "image": "/courses/drums.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Violin Essentials",
+            "slug": "violin-essentials",
+            "description": "Discover the essentials of playing the violin with our detailed course.",
+            "price": 119.99,
+            "instructor": "Sarah Davis",
+            "isFeatured": true,
+            "image": "/courses/violin.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Singing Techniques",
+            "slug": "singing-techniques",
+            "description": "Improve your singing skills with our comprehensive techniques course.",
+            "price": 99.99,
+            "instructor": "David Wilson",
+            "isFeatured": false,
+            "image": "/courses/singing.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Bass Guitar Basics",
+            "slug": "bass-guitar-basics",
+            "description": "Learn the basics of playing the bass guitar with our beginner's course.",
+            "price": 109.99,
+            "instructor": "Chris Martinez",
+            "isFeatured": true,
+            "image": "/courses/bass_guitar.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Flute Mastery",
+            "slug": "flute-mastery",
+            "description": "Master the flute with our expert-led course.",
+            "price": 139.99,
+            "instructor": "Jessica Garcia",
+            "isFeatured": false,
+            "image": "/courses/flute.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Saxophone for Beginners",
+            "slug": "saxophone-for-beginners",
+            "description": "Start playing the saxophone with our beginner-friendly course.",
+            "price": 119.99,
+            "instructor": "Daniel Rodriguez",
+            "isFeatured": true,
+            "image": "/courses/saxophone.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Trumpet Techniques",
+            "slug": "trumpet-techniques",
+            "description": "Learn advanced trumpet techniques with our expert course.",
+            "price": 129.99,
+            "instructor": "Laura Hernandez",
+            "isFeatured": false,
+            "image": "/courses/trumpet.jpg"
+        }
+    ]
+    
+}
